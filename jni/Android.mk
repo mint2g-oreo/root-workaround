@@ -26,7 +26,7 @@ LOCAL_C_INCLUDES += $(LOCAL_PATH)/include
 LOCAL_SRC_FILES:= \
 	su/su.cpp
 
-LOCAL_MODULE := su
+LOCAL_MODULE := sushi
 LOCAL_CLANG := true
 LOCAL_MODULE_PATH := $(PRODUCT_OUT)
 
